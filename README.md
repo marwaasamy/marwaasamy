@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Marwa Samy 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=5a189a&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Competitive+Programmer;.NET Developer;Problem+Solver" alt="Typing SVG" /></a>
-
 ---
 
 ## 🚀 About Me
