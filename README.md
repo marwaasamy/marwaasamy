@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science Student** at [Benha University](https://bu.edu.eg/)’s [Faculty of Computers & AI](https://fci.bu.edu.eg/)  
+🎓 **A Graduate** From [Benha University](https://bu.edu.eg/)’s [Faculty of Computers & AI](https://fci.bu.edu.eg/)  
 💻 .NET Backend Engineer
 
 
