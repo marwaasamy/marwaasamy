@@ -1,80 +1,62 @@
-# Hi there, I'm Marwa Samy 👋
+<div align="center">
 
-### .NET Backend Engineer | Computer Science Graduate | Problem Solver
+# 👋 Hi, I'm Marwa Samy
 
-I'm a passionate **.NET Backend Engineer** and a graduate of the **Faculty of Computers & Artificial Intelligence, Benha University**. I enjoy building scalable backend systems, designing clean APIs, and solving complex programming problems.
 
-I believe in writing clean, maintainable code and continuously improving my software engineering skills through hands-on projects and competitive programming.
+🎓 Computer Science Graduate 
+💻 Passionate about building scalable backend applications with **ASP.NET Core** and **C#**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=.NET+Backend+Engineer;ASP.NET+Core+Developer;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Bachelor's Degree in Computer Science from **Benha University**  
-💼 Specialized in **Backend Development** using **ASP.NET Core** and **C#**  
-🔹 Passionate about building RESTful APIs and scalable web applications  
-🗄️ Experienced with relational database design and SQL Server  
-📚 Constantly learning software architecture, design patterns, and best practices  
-⚡ Competitive programmer who enjoys algorithmic problem solving  
-🎯 Currently focusing on improving backend architecture and system design skills
+- 🔭 Currently building backend applications with **ASP.NET Core**
+- 🌱 Learning **Clean Architecture**, **System Design**, and **Microservices**
+- 💡 Interested in creating secure, scalable, and maintainable backend systems
+- 📚 Always exploring new technologies and backend best practices
+- 🤝 Open to internships, junior backend opportunities, and collaboration
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Languages
-- C#
-- SQL
-- Python
-- C++
+### 💻 Languages
 
-### Backend
-- ASP.NET Core
-- ASP.NET Web API
-- Entity Framework Core
-- LINQ
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Databases
-- SQL Server
+### ⚙️ Backend
 
-### Concepts
-- REST APIs
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- Design Patterns
-- Data Structures & Algorithms
-- Problem Solving
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge)
 
-### Tools
-- Git & GitHub
-- Visual Studio
-- VS Code
-- Postman
+### 🗄️ Database
 
----
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## 🚀 What I'm Working On
+### 🛠️ Tools
 
-- Developing scalable backend applications with .NET
-- Improving system design and software architecture knowledge
-- Practicing Data Structures & Algorithms
-- Learning advanced backend development concepts
-
----
-
-## 📈 Competitive Programming
-
-I enjoy solving algorithmic challenges to strengthen my problem-solving and analytical thinking.
-
-- 🔹 Codeforces: https://codeforces.com/profile/marwa_samy
-- 🔹 LeetCode: https://leetcode.com/u/marwa_samy/
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/marwa-samy-031b50277/
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwa%20Samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwa-samy-031b50277/)
+
+</div>
 
 ---
-
-> *"Great software is built through continuous learning, clean code, and solving real-world problems."*
